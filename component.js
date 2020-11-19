@@ -1,3 +1,5 @@
+"use strict";
+
 define('nodes/components/driver-scaleway/component', ['exports', 'shared/mixins/node-driver'], function (exports, _nodeDriver) {
   'use strict';
 
